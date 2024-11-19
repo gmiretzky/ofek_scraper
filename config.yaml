@@ -1,0 +1,7 @@
+kids:
+  - name: XXX
+    username: XXXXXXX
+    password: XXXXX
+out_message_delimiter: "\n"
+debug: True
+sleep: 300
